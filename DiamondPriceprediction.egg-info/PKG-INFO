@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: DiamondPriceprediction
+Version: 0.0.1
+Author: Sumit Kumar
+Author-email: sumitkum2503@gmail.com
+Requires-Dist: pandas==2.0.3
+Requires-Dist: numpy==1.24.3
+Requires-Dist: flask
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
